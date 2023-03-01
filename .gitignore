@@ -78,3 +78,5 @@ Content/Geometry/*
 Content/VRTemplate/*
 
 PackageFile/*
+.idea/*
+
